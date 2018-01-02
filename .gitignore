@@ -97,3 +97,6 @@ ENV/
 # Russell project
 .russellexpt
 .russullignore
+
+.gitignore~
+
